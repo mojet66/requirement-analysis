@@ -31,7 +31,11 @@ Use case diagrams show how different users (actors) interact with the system to 
 
 ![User Case Design] (https://github.com/mojet66/requirement-analysis/blob/main/alx-booking-uc.png?raw=true)
 
-
+## Acceptance Criteria
+### Importance of Acceptance Criteria in Requirement Analysis
+1. Provide a basis for testing and validation.
+2. Ensure all parties have a clear understanding of feature requirements.
+3. Help in maintaining quality and meeting user expectations.
 
 
 
