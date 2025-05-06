@@ -22,3 +22,19 @@ Requirement Analysis is the systematic process of identifying, documenting, vali
 They define what the sysytem should do. Examples booking system, property search
 ### Non-Functional Requirements
 They describe how the system should peform. Examples scalability, usability
+
+## Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases). Benefits of use case diagrams are;
++ Provide a clear visual representation of system functionalities
++ Help in identifying and organizing system requirements.
++ Facilitate communication among stakeholders and development team.
+
+![User Case Design] (alx-booking-uc.png)
+
+
+
+
+
+
+
+
