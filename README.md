@@ -29,7 +29,7 @@ Use case diagrams show how different users (actors) interact with the system to 
 + Help in identifying and organizing system requirements.
 + Facilitate communication among stakeholders and development team.
 
-![User Case Design] (alx-booking-uc.png)
+![User Case Design] (https://github.com/mojet66/requirement-analysis/blob/main/alx-booking-uc.png?raw=true)
 
 
 
